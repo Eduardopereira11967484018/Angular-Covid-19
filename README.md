@@ -41,3 +41,8 @@ Um projeto em **Angular Standalone** para exibir dados atualizados sobre a situa
     ...
   ]
 }
+
+ Listar casos por estado brasileiro
+GET /report/v1/brazil/uf/{uf}
+
+Exemplo de resposta para SP:
