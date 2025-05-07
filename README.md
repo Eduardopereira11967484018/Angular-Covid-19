@@ -5,9 +5,9 @@ Aplicação Angular Standalone para consultar dados de COVID-19 no Brasil e no m
 ## 🚀 Como Executar
 
 ```bash
-npm start        # Inicia o servidor de desenvolvimento
+npm start  ```       # Inicia o servidor de desenvolvimento
 npm run build    # Gera o build de produção
-ng serve         # Executa a aplicação Angular
+ng serve         # Executa a aplicação Angular   ```
 🌐 API COVID-19 Brasil
 Base URL:
 https://covid19-brazil-api.now.sh/api/report/v1
